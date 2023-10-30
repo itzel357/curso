@@ -1,2 +1,2 @@
 # curso
-Curso de NextJS 💕
+Curso de NextJS 💕👏
